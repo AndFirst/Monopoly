@@ -1,0 +1,444 @@
+{
+    "0": {
+        "id": 0,
+        "name": "Start"
+    },
+    "1": {
+        "id": 1,
+        "name": "Ulica Konopacka",
+        "district": "grey",
+        "price": 60,
+        "house_price": 50,
+        "rents": {
+            "0": 2,
+            "1": 10,
+            "2": 30,
+            "3": 90,
+            "4": 160,
+            "5": 250
+        }
+    },
+    "2": {
+        "id": 2,
+        "name": "Kasa Społeczna"
+    },
+    "3": {
+        "id": 3,
+        "name": "Ulica Stalowa",
+        "district": "grey",
+        "price": 60,
+        "house_price": 50,
+        "rents": {
+            "0": 4,
+            "1": 20,
+            "2": 60,
+            "3": 180,
+            "4": 320,
+            "5": 450
+        }
+    },
+    "4": {
+        "id": 4,
+        "name": "Podatek Dochodowy",
+        "value": 200
+    },
+    "5": {
+        "id": 5,
+        "name": "Dworzec Zachodni",
+        "price": 200,
+        "rents": {
+            "1": 25,
+            "2": 50,
+            "3": 100,
+            "4": 200
+        }
+    },
+    "6": {
+        "id": 6,
+        "name": "Ulica Radzymińska",
+        "district": "white",
+        "price": 100,
+        "house_price": 50,
+        "rents": {
+            "0": 6,
+            "1": 30,
+            "2": 90,
+            "3": 270,
+            "4": 400,
+            "5": 550
+        }
+    },
+    "7": {
+        "id": 7,
+        "name": "Szansa"
+    },
+    "8": {
+        "id": 8,
+        "name": "Ulica Jagiellońska",
+        "district": "white",
+        "price": 100,
+        "house_price": 50,
+        "rents": {
+            "0": 6,
+            "1": 30,
+            "2": 90,
+            "3": 270,
+            "4": 400,
+            "5": 550
+        }
+    },
+    "9": {
+        "id": 9,
+        "name": "Ulica Targowa",
+        "district": "white",
+        "price": 120,
+        "house_price": 50,
+        "rents": {
+            "0": 8,
+            "1": 40,
+            "2": 100,
+            "3": 300,
+            "4": 450,
+            "5": 600
+        }
+    },
+    "10": {
+        "id": 10,
+        "name": "Więzienie"
+    },
+    "11": {
+        "id": 11,
+        "name": "Ulica Płowiecka",
+        "district": "magenta",
+        "price": 140,
+        "house_price": 100,
+        "rents": {
+            "0": 10,
+            "1": 50,
+            "2": 150,
+            "3": 450,
+            "4": 625,
+            "5": 750
+        }
+    },
+    "12": {
+        "id": 12,
+        "name": "Elektrownia",
+        "price": 150,
+        "multipliers": {
+            "1": 4,
+            "2": 10
+        }
+    },
+    "13": {
+        "id": 13,
+        "name": "Ulica Marsa",
+        "district": "magenta",
+        "price": 140,
+        "house_price": 100,
+        "rents": {
+            "0": 10,
+            "1": 50,
+            "2": 150,
+            "3": 450,
+            "4": 625,
+            "5": 750
+        }
+    },
+    "14": {
+        "id": 14,
+        "name": "Ulica Grochowska",
+        "district": "magenta",
+        "price": 160,
+        "house_price": 100,
+        "rents": {
+            "0": 12,
+            "1": 60,
+            "2": 180,
+            "3": 500,
+            "4": 700,
+            "5": 900
+        }
+    },
+    "15": {
+        "id": 15,
+        "name": "Dworzec Gdański",
+        "price": 200,
+        "rents": {
+            "1": 25,
+            "2": 50,
+            "3": 100,
+            "4": 200
+        }
+    },
+    "16": {
+        "id": 16,
+        "name": "Ulica Obozowa",
+        "district": "cyan",
+        "price": 180,
+        "house_price": 100,
+        "rents": {
+            "0": 14,
+            "1": 70,
+            "2": 200,
+            "3": 550,
+            "4": 750,
+            "5": 950
+        }
+    },
+    "17": {
+        "id": 17,
+        "name": "Kasa Społeczna"
+    },
+    "18": {
+        "id": 18,
+        "name": "Ulica Górczewska",
+        "district": "cyan",
+        "price": 180,
+        "house_price": 100,
+        "rents": {
+            "0": 14,
+            "1": 70,
+            "2": 200,
+            "3": 550,
+            "4": 750,
+            "5": 950
+        }
+    },
+    "19": {
+        "id": 19,
+        "name": "Ulica Wolska",
+        "district": "cyan",
+        "price": 200,
+        "house_price": 100,
+        "rents": {
+            "0": 16,
+            "1": 80,
+            "2": 220,
+            "3": 600,
+            "4": 800,
+            "5": 1000
+        }
+    },
+    "20": {
+        "id": 20,
+        "name": "Bezpłatny Parking"
+    },
+    "21": {
+        "id": 21,
+        "name": "Ulica Mickiewicza",
+        "district": "red",
+        "price": 220,
+        "house_price": 150,
+        "rents": {
+            "0": 18,
+            "1": 90,
+            "2": 250,
+            "3": 700,
+            "4": 875,
+            "5": 1050
+        }
+    },
+    "22": {
+        "id": 22,
+        "name": "Szansa"
+    },
+    "23": {
+        "id": 23,
+        "name": "Ulica Słowackiego",
+        "district": "red",
+        "price": 220,
+        "house_price": 150,
+        "rents": {
+            "0": 18,
+            "1": 90,
+            "2": 250,
+            "3": 700,
+            "4": 875,
+            "5": 1050
+        }
+    },
+    "24": {
+        "id": 24,
+        "name": "Plac Wilsona",
+        "district": "red",
+        "price": 240,
+        "house_price": 150,
+        "rents": {
+            "0": 20,
+            "1": 100,
+            "2": 300,
+            "3": 750,
+            "4": 925,
+            "5": 1100
+        }
+    },
+    "25": {
+        "id": 25,
+        "name": "Dworzec Wschodni",
+        "price": 200,
+        "rents": {
+            "1": 25,
+            "2": 50,
+            "3": 100,
+            "4": 200
+        }
+    },
+    "26": {
+        "id": 26,
+        "name": "Ulica Świętokrzyska",
+        "district": "yellow",
+        "price": 260,
+        "house_price": 150,
+        "rents": {
+            "0": 22,
+            "1": 110,
+            "2": 330,
+            "3": 800,
+            "4": 975,
+            "5": 1150
+        }
+    },
+    "27": {
+        "id": 27,
+        "name": "Krakowskie Przedmieście",
+        "district": "yellow",
+        "price": 260,
+        "house_price": 150,
+        "rents": {
+            "0": 22,
+            "1": 110,
+            "2": 330,
+            "3": 800,
+            "4": 975,
+            "5": 1150
+        }
+    },
+    "28": {
+        "id": 28,
+        "name": "Wodociągi",
+        "price": 150,
+        "multipliers": {
+            "1": 4,
+            "2": 10
+        }
+    },
+    "29": {
+        "id": 29,
+        "name": "Nowy Świat",
+        "district": "yellow",
+        "price": 280,
+        "house_price": 150,
+        "rents": {
+            "0": 24,
+            "1": 120,
+            "2": 360,
+            "3": 850,
+            "4": 1025,
+            "5": 1200
+        }
+    },
+    "30": {
+        "id": 30,
+        "name": "Idź do więzienia"
+    },
+    "31": {
+        "id": 31,
+        "name": "Plac Trzech Krzyży",
+        "district": "green",
+        "price": 300,
+        "house_price": 200,
+        "rents": {
+            "0": 26,
+            "1": 130,
+            "2": 390,
+            "3": 900,
+            "4": 1100,
+            "5": 1275
+        }
+    },
+    "32": {
+        "id": 32,
+        "name": "Ulica Marszałkowska",
+        "district": "green",
+        "price": 300,
+        "house_price": 200,
+        "rents": {
+            "0": 26,
+            "1": 130,
+            "2": 390,
+            "3": 900,
+            "4": 1100,
+            "5": 1275
+        }
+    },
+    "33": {
+        "id": 33,
+        "name": "Kasa Społeczna"
+    },
+    "34": {
+        "id": 34,
+        "name": "Aleje Jerozolimskie",
+        "district": "green",
+        "price": 320,
+        "house_price": 200,
+        "rents": {
+            "0": 28,
+            "1": 150,
+            "2": 450,
+            "3": 1000,
+            "4": 1200,
+            "5": 1400
+        }
+    },
+    "35": {
+        "id": 35,
+        "name": "Dworzec Centralny",
+        "price": 200,
+        "rents": {
+            "1": 25,
+            "2": 50,
+            "3": 100,
+            "4": 200
+        }
+    },
+    "36": {
+        "id": 36,
+        "name": "Szansa"
+    },
+    "37": {
+        "id": 37,
+        "name": "Ulica Belwederska",
+        "district": "blue",
+        "price": 350,
+        "house_price": 200,
+        "rents": {
+            "0": 35,
+            "1": 175,
+            "2": 500,
+            "3": 1100,
+            "4": 1300,
+            "5": 1500
+        }
+    },
+    "38": {
+        "id": 38,
+        "name": "Domiar Podatkowy",
+        "value": 100
+    },
+    "39": {
+        "id": 39,
+        "name": "Aleje Ujazdowskie",
+        "district": "blue",
+        "price": 400,
+        "house_price": 200,
+        "rents": {
+            "0": 50,
+            "1": 200,
+            "2": 600,
+            "3": 1400,
+            "4": 1700,
+            "5": 2000
+        }
+    }
+}
